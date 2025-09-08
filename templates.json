@@ -1,0 +1,52 @@
+{
+  "titles": {
+    "initial": {
+      "gym": ["Nhiệm Vụ Thể Chất!", "Giờ Vàng Tập Luyện!", "Thử Thách Năng Lượng!"],
+      "cafe": ["Khám Phá Cà Phê!", "Nhiệm Vụ Thư Giãn!", "Góc Nhỏ An Yên!"],
+      "park": ["Hòa Mình Với Thiên Nhiên!", "Thử Thách Ngoài Trời!"],
+      "cinema": ["Cuộc Phiêu Lưu Màn Ảnh Rộng!"],
+      "buffer": ["Gợi Ý Trước Giờ G!", "Khởi Động Nhanh!"],
+      "default": ["Gợi Ý Thú Vị Cho Bạn!"]
+    },
+    "updated": {
+      "default": ["Cập Nhật Nhiệm Vụ!", "Kế Hoạch Đã Thay Đổi!", "Một Gợi Ý Tốt Hơn!"]
+    }
+  },
+  "descriptions": {
+    "initial": {
+      "main_activity": [
+        "Có một gợi ý thú vị cho kế hoạch của bạn: Hãy thử đến {location_name} xem sao!",
+        "Để ngày hôm nay thêm phần đặc biệt, hãy khám phá {location_name} nhé!",
+        "Chúng tôi tìm thấy một địa điểm tuyệt vời cho kế hoạch của bạn: {location_name}."
+      ],
+      "buffer_activity": [
+        "Trước khi bắt đầu hoạt động chính, sao không thử ghé qua {location_name} để khởi động nhỉ?",
+        "Chúng tôi có một gợi ý nhỏ để làm kế hoạch của bạn thêm hoàn hảo: Ghé qua {location_name} trước nhé."
+      ]
+    },
+    "updated": {
+      "default": [
+        "Chúng tôi vừa tìm thấy một cơ hội thú vị hơn cho bạn! Hãy thử đến {location_name} để thay đổi không khí.",
+        "Kế hoạch đã được tối ưu hóa lại để phù hợp nhất! Gợi ý mới của bạn là {location_name}."
+      ]
+    }
+  },
+  "hints": {
+    "by_schedule_activity": {
+      "Tập yoga": "Biết đâu bạn lại bắt gặp một người có chung 'dòng chảy' năng lượng yoga gần đó.",
+      "Đi dạo": "Có thể bạn sẽ bắt gặp một người yêu thích không khí trong lành giống mình.",
+      "Xem phim": "Biết đâu bạn lại gặp một người cũng đang chờ đợi một cuộc phiêu lưu trên màn ảnh rộng.",
+      "Chạy bộ": "Hãy để ý một người có cùng nhịp bước và đam mê tốc độ."
+    },
+    "by_match_preferences": {
+      "books": "Biết đâu bạn lại gặp một người có cùng đam mê với những trang sách.",
+      "music": "Hãy lắng nghe, có thể bạn sẽ tìm thấy một người có cùng gu âm nhạc.",
+      "art": "Gợi ý: Hãy tìm kiếm một tâm hồn đồng điệu về nghệ thuật."
+    },
+    "generic": [
+      "Hãy mở lòng và để ý xung quanh, một bất ngờ thú vị có thể đang chờ bạn.",
+      "Một cuộc gặp gỡ tình cờ có thể bắt đầu từ một nụ cười.",
+      "Biết đâu bạn lại tìm thấy 'kho báu' mà mình đang tìm kiếm."
+    ]
+  }
+}

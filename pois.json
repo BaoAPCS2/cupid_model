@@ -1,0 +1,218 @@
+[
+    {
+        "name": "The Coffee House - Nguyễn Huệ",
+        "category": "cafe",
+        "type": "indoor",
+        "district": "quan_1",
+        "latitude": 10.7719,
+        "longitude": 106.7037,
+        "poi_id": "bb648f34-cc79-4ac8-89d6-9d03eb629d60"
+    },
+    {
+        "name": "Starbucks Reserve - Hàn Thuyên",
+        "category": "cafe",
+        "type": "indoor",
+        "district": "quan_1",
+        "latitude": 10.7794,
+        "longitude": 106.6994,
+        "poi_id": "9de035db-6804-4069-a842-84e6ed697c47"
+    },
+    {
+        "name": "Cộng Cà Phê - Lý Tự Trọng",
+        "category": "cafe",
+        "type": "indoor",
+        "district": "quan_1",
+        "latitude": 10.7766,
+        "longitude": 106.7001,
+        "poi_id": "f41ea037-93f6-463a-9fcc-ca344f73fc56"
+    },
+    {
+        "name": "Phúc Long - Mạc Thị Bưởi",
+        "category": "cafe",
+        "type": "indoor",
+        "district": "quan_1",
+        "latitude": 10.7735,
+        "longitude": 106.7042,
+        "poi_id": "9ac57b3f-52d6-42a6-8980-b13e74678bc0"
+    },
+    {
+        "name": "L'Usine - Lê Thánh Tôn",
+        "category": "cafe",
+        "type": "indoor",
+        "district": "quan_1",
+        "latitude": 10.7769,
+        "longitude": 106.7018,
+        "poi_id": "2dec6668-6c56-45f1-acda-cde55f596c9f"
+    },
+    {
+        "name": "California Fitness & Yoga - Lim Tower",
+        "category": "gym",
+        "type": "indoor",
+        "district": "quan_1",
+        "latitude": 10.7801,
+        "longitude": 106.7029,
+        "poi_id": "514d4a39-d479-47d5-845d-70ecb9099082"
+    },
+    {
+        "name": "Elite Fitness - Vincom Center",
+        "category": "gym",
+        "type": "indoor",
+        "district": "quan_1",
+        "latitude": 10.7781,
+        "longitude": 106.7032,
+        "poi_id": "40e6b5ed-ca07-4662-994e-8391c3accfdc"
+    },
+    {
+        "name": "Công viên 23/9",
+        "category": "park",
+        "type": "outdoor",
+        "district": "quan_1",
+        "latitude": 10.7699,
+        "longitude": 106.6954,
+        "poi_id": "048baede-5bcf-4163-bbfe-e7da28eeb209"
+    },
+    {
+        "name": "Công viên Tao Đàn",
+        "category": "park",
+        "type": "outdoor",
+        "district": "quan_1",
+        "latitude": 10.7738,
+        "longitude": 106.6936,
+        "poi_id": "5833f74e-bf63-4fd0-8668-a88f5758b2fa"
+    },
+    {
+        "name": "CGV Vincom Center Đồng Khởi",
+        "category": "cinema",
+        "type": "indoor",
+        "district": "quan_1",
+        "latitude": 10.778,
+        "longitude": 106.7033,
+        "poi_id": "ab4a4b0a-6398-4902-b1c0-f229cb693ae1"
+    },
+    {
+        "name": "BHD Star Bitexco",
+        "category": "cinema",
+        "type": "indoor",
+        "district": "quan_1",
+        "latitude": 10.7716,
+        "longitude": 106.7044,
+        "poi_id": "08a70534-dd98-4b62-b8d7-afb3a6d45583"
+    },
+    {
+        "name": "The Coffee House - An Dương Vương",
+        "category": "cafe",
+        "type": "indoor",
+        "district": "quan_5",
+        "latitude": 10.7588,
+        "longitude": 106.6669,
+        "poi_id": "85057786-65b2-4f11-b372-d1c807e5ac43"
+    },
+    {
+        "name": "Phin & Bean Roastery",
+        "category": "cafe",
+        "type": "indoor",
+        "district": "quan_5",
+        "latitude": 10.7554,
+        "longitude": 106.6631,
+        "poi_id": "91f8a6ef-03e8-45c6-8556-6f4b5bcd46c0"
+    },
+    {
+        "name": "CitiGym - Hùng Vương Plaza",
+        "category": "gym",
+        "type": "indoor",
+        "district": "quan_5",
+        "latitude": 10.7599,
+        "longitude": 106.6617,
+        "poi_id": "774aba4b-e268-44f8-b015-f0b7a806c1df"
+    },
+    {
+        "name": "Jetts 24h Fitness An Dương Vương",
+        "category": "gym",
+        "type": "indoor",
+        "district": "quan_5",
+        "latitude": 10.7585,
+        "longitude": 106.6672,
+        "poi_id": "065c28eb-dc23-4ffa-81ec-43d9a14b2099"
+    },
+    {
+        "name": "Công viên Văn Lang",
+        "category": "park",
+        "type": "outdoor",
+        "district": "quan_5",
+        "latitude": 10.7562,
+        "longitude": 106.6644,
+        "poi_id": "699c9394-31f2-4761-86cf-4a541bca2384"
+    },
+    {
+        "name": "CGV Hùng Vương Plaza",
+        "category": "cinema",
+        "type": "indoor",
+        "district": "quan_5",
+        "latitude": 10.76,
+        "longitude": 106.6618,
+        "poi_id": "735554d4-fa6b-43a7-bfe0-3935cfe696e4"
+    },
+    {
+        "name": "Highlands Coffee - Vạn Hạnh Mall",
+        "category": "cafe",
+        "type": "indoor",
+        "district": "quan_10",
+        "latitude": 10.7744,
+        "longitude": 106.6687,
+        "poi_id": "a612038e-08c5-4a33-8fda-628c0ba64596"
+    },
+    {
+        "name": "The Coffee House - Sư Vạn Hạnh",
+        "category": "cafe",
+        "type": "indoor",
+        "district": "quan_10",
+        "latitude": 10.773,
+        "longitude": 106.6689,
+        "poi_id": "a4ae5611-723d-4796-b15f-668387430319"
+    },
+    {
+        "name": "Cheese Coffee - Sư Vạn Hạnh",
+        "category": "cafe",
+        "type": "indoor",
+        "district": "quan_10",
+        "latitude": 10.7712,
+        "longitude": 106.668,
+        "poi_id": "e1dfe3b6-c86a-4ef8-90fc-ee286bd14e59"
+    },
+    {
+        "name": "California Fitness & Yoga - Vạn Hạnh Mall",
+        "category": "gym",
+        "type": "indoor",
+        "district": "quan_10",
+        "latitude": 10.7745,
+        "longitude": 106.6688,
+        "poi_id": "81f39cfa-dc97-4baa-af48-78d71c9e2f1b"
+    },
+    {
+        "name": "Getfit Gym & Yoga",
+        "category": "gym",
+        "type": "indoor",
+        "district": "quan_10",
+        "latitude": 10.778,
+        "longitude": 106.6698,
+        "poi_id": "1392f6cd-9a6d-49c6-974a-734ff03d2198"
+    },
+    {
+        "name": "Công viên Lê Thị Riêng",
+        "category": "park",
+        "type": "outdoor",
+        "district": "quan_10",
+        "latitude": 10.7836,
+        "longitude": 106.6626,
+        "poi_id": "f9d0e09b-2b71-4ab2-8850-cd05d02377bf"
+    },
+    {
+        "name": "CGV Sư Vạn Hạnh",
+        "category": "cinema",
+        "type": "indoor",
+        "district": "quan_10",
+        "latitude": 10.7746,
+        "longitude": 106.6689,
+        "poi_id": "043de770-f1cd-443e-bb3f-bdc7da8be260"
+    }
+]
