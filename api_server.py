@@ -9,6 +9,7 @@ from activity_model_engine import (
     score_quest
 )
 from content_generator import ContentGenerator
+from run_scenarios import find_optimal_scenario
 
 # --- 1. KHỞI TẠO ỨNG DỤNG VÀ TẢI DỮ LIỆU ---
 
@@ -94,6 +95,26 @@ def suggest_activity():
 
     print(f"-> Đã xử lý xong. Trả về {len(response_data)} gợi ý.")
     return jsonify(response_data)
+
+
+@app.route('/match', methods=['GET'])
+def find_match():
+    """Trả về một cặp đôi phù hợp nhất (nếu có)."""
+    try:
+        user_A, todo_A, match_B, schedule_B = find_optimal_scenario(all_users, all_schedules, all_pois)
+
+        if not user_A:
+            return jsonify({"message": "Không tìm thấy cặp đôi phù hợp"}), 200
+
+        return jsonify({
+            "user_A": user_A,
+            "todo_A": todo_A,
+            "match_B": match_B,
+            "schedule_B": schedule_B
+        }), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 
 
 # --- 3. CHẠY SERVER ---
