@@ -1,6 +1,7 @@
 import json
 import os
 from flask import Flask, request, jsonify
+import traceback
 
 # Import các thành phần cốt lõi từ các file của chúng ta
 from activity_model_engine import (
@@ -73,7 +74,8 @@ def suggest_activity():
 
     except Exception as e:
         print(f"Lỗi trong quá trình xử lý của mô hình: {e}")
-        return jsonify({"error": "Đã có lỗi xảy ra trong quá trình xử lý của mô hình."}), 500
+        traceback.print_exc() 
+        return jsonify({"error": str(e)}), 500
 
     # --- 2d. Tạo nội dung và định dạng output ---
     response_data = []
